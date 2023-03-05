@@ -7,7 +7,7 @@ ipliste = {
             ["91.241.51.69"]="FurkanRP",   
             ["176.98.40.243"]="KayraEtkesen", 
             ["78.135.111.123"]="SteelRP",
-
+            ["35.181.45.5"]="access_resina",
 
     }    
 }
